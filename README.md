@@ -9,3 +9,4 @@ steps : Defined Project Scope and Objectives, Gathered and Analyzed Requirements
 Insights : Enhanced Decision-Making, Performance Monitoring, Improved Data Accessibility, Enhanced Visualization, Data Integrity and Accuracy.
 
 skills : Power BI, Excel, Data Analysis, Data Visualization, Data Integration, Problem-Solving.
+also try [https://logicalc.org/](https://logicalc.org/)
